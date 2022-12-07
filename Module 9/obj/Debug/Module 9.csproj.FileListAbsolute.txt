@@ -1,0 +1,13 @@
+C:\Users\ivanm\source\repos\Module 9\Module 9\bin\Debug\Module 9.exe.config
+C:\Users\ivanm\source\repos\Module 9\Module 9\bin\Debug\Module 9.exe
+C:\Users\ivanm\source\repos\Module 9\Module 9\bin\Debug\Module 9.pdb
+C:\Users\ivanm\source\repos\Module 9\Module 9\bin\Debug\sfml-audio.dll
+C:\Users\ivanm\source\repos\Module 9\Module 9\bin\Debug\sfml-graphics.dll
+C:\Users\ivanm\source\repos\Module 9\Module 9\bin\Debug\sfml-learning.dll
+C:\Users\ivanm\source\repos\Module 9\Module 9\bin\Debug\sfml-system.dll
+C:\Users\ivanm\source\repos\Module 9\Module 9\bin\Debug\sfml-window.dll
+C:\Users\ivanm\source\repos\Module 9\Module 9\obj\Debug\Module 9.csproj.AssemblyReference.cache
+C:\Users\ivanm\source\repos\Module 9\Module 9\obj\Debug\Module 9.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Module 9\Module 9\obj\Debug\Module 9.csproj.CopyComplete
+C:\Users\ivanm\source\repos\Module 9\Module 9\obj\Debug\Module 9.exe
+C:\Users\ivanm\source\repos\Module 9\Module 9\obj\Debug\Module 9.pdb

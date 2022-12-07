@@ -1,0 +1,7 @@
+bin/*
+obj/*
+Properties/*
+Learning Library.csproj
+ResourceList.cs
+Game.cs
+SFML.Net-2.4-learning/lib/sfml-learning.pdb
